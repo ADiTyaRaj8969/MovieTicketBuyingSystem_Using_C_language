@@ -1,4 +1,4 @@
-# 🎬 Indian Movie Ticket Booking System
+# 🎬  Movie Ticket Booking System
 
 A console-based movie ticket booking system written in C that I made in my first semester. This project simulates the experience of booking movie tickets at Indian cinema chains like PVR Cinemas.
 
